@@ -28,6 +28,7 @@ This project structure is a personal template for React projects.
 | react-toast-notifications | 1.4.0 |
 
 **Other**
+
 | Lib | Version |
 | ------ | ------ |
 | lodash | 4.17.11 |
